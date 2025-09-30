@@ -43,13 +43,17 @@ Agriculture, FoodTech & Rural Development
 ## Proposed Solution
 The proposed solution is a **mobile-first, AI-powered Smart Crop Advisory System** designed specifically for **small and marginal farmers**. It provides personalized, location- and crop-specific guidance on farming activities such as irrigation, fertilization, pest/disease management, and weather-based alerts. Farmers can receive real-time advisories through a **multilingual and voice-enabled app**, even with low internet connectivity. The system leverages weather APIs, soil data, and AI models (including image-based pest detection) to deliver accurate, timely, and actionable recommendations. It aims to improve crop yield, reduce input costs, and make precision farming accessible and affordable for rural farmers.
 ## Technical Approach
-###  Technical Approach
+<img width="1080" height="736" alt="image" src="https://github.com/user-attachments/assets/cb96431b-80fc-4fb5-8c5d-74ba656f2bbe" />
+<img width="1080" height="736" alt="image" src="https://github.com/user-attachments/assets/9102f085-0351-4191-8e79-eea3e493edb6" />
 
 The system will be developed as a **cross-platform mobile application** using **Flutter**, backed by a **Python (FastAPI) backend**. Farmer data (location, crop, soil) will be stored in a **PostgreSQL database**. Real-time weather data will be fetched from APIs like **OpenWeatherMap**, while **AI/ML models** (built using TensorFlow or PyTorch) will analyze crop images for pest/disease detection. A rule-based engine will generate crop-stage advisories and fertilizer schedules. Notifications and alerts will be sent via **Firebase Cloud Messaging (FCM)** and **SMS gateway**. The app will support **offline mode**, **multilingual UI**, and **voice input/output** for accessibility in rural areas.
 ## Feasibility and Viability
 ### ✅ **Feasibility and Viability of the Solution**
 
 #### 🔹 **Feasibility**
+![Uploading image.png…]()
+![Uploading image.png…]()
+![Uploading image.png…]()
 
 * **Technical Feasibility**: The solution uses existing, proven technologies—mobile development frameworks (like Flutter), weather APIs, cloud infrastructure, and AI/ML models for image recognition—making development practical with current tools and datasets.
 * **Data Availability**: Weather forecasts, soil health data, satellite imagery (like NDVI), and pest/crop information are publicly accessible through APIs and government portals (e.g., IMD, ISRO, ICAR).
@@ -68,6 +72,8 @@ In summary, the solution is both **technically feasible** and **economically via
 
 ## Impact and Benefits
 ### 🌾 **Impact and Benefits of the Proposed Smart Crop Advisory System**
+<img width="1080" height="800" alt="image" src="https://github.com/user-attachments/assets/a7e50ab0-88e2-43f8-a60c-7d946bd3c7f4" />
+<img width="1080" height="800" alt="image" src="https://github.com/user-attachments/assets/f4e58cc5-119e-4843-91be-e143cc01f7e9" />
 
 #### ✅ **Impact**
 
